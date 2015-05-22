@@ -3,4 +3,4 @@
 
 Game originally by Gabriele Cirulli
 
---NOT COMPLETE, WORK IN PROGRESS--
+--NOT COMPLETE, WORK IN PROGRESS, IT'S PRETTY LAME-O--
